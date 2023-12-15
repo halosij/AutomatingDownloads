@@ -1,0 +1,1 @@
+AutomatingDownloads is a script that runs in the background and should listen to files entering the downloads-folder. It should then move the file based on the file-type to the specific folder e.g. Image.jpeg should be moved to the DownloadImages folder.
